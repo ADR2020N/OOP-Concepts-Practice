@@ -1,7 +1,7 @@
 package OOp.practice.Concepts;
 
 public class Bike extends Vehicle{
-	private boolean fourstroke=true;         //Polymolophism mean One Class Has Different Forms
+	private boolean fourstroke=true;         
 	 
 
 	 public Bike(String name,String color,String model,String company,String engine,boolean fourstroke) {
